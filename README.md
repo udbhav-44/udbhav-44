@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @udbhav-44
-- Junior Undergraduate at IIT Kanpur, pursuing majors in Electrical Engineering
-- Leader of the Brain and Cognitive Society, IITK
-- 👀 I’m interested in Machine Learning and Deep learning 
-- 📫 How to reach me: udbhav44@gmail.com
+<div align="justify">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/3TQvTwB/output-gif.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/3TQvTwB/output-gif.gif">
+    <img alt="GIFOS" src="https://i.ibb.co/3TQvTwB/output-gif.gif">
+</picture>
 
-<!---
-udbhav-44/udbhav-44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<sub><i>inspired from [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal)</i></sub>
+
+</div>
+
+<!-- Image deletion URL: https://ibb.co/4F32FcP/be713ee180ee34da9372fe54ddd3a200 -->
