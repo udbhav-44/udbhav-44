@@ -96,14 +96,14 @@ def main():
     --------------
     \x1b[96mEmail:      \x1b[93maudbhav22@iitk.ac.in\x1b[0m
     \x1b[96mDiscord:    \x1b[93mudbhav_agarwal\x1b[0m
-    \x1b[96mLinkedIn:   \x1b[93udbhav-agarwal44\x1b[0m
+    \x1b[96mLinkedIn:   \x1b[93mudbhav-agarwal44\x1b[0m
     
     \x1b[30;101mGitHub Stats:\x1b[0m
     --------------
     \x1b[96mUser Rating: \x1b[93m{git_user_details.user_rank.level}\x1b[0m
     \x1b[96mTotal Commits (2023): \x1b[93m{git_user_details.total_commits_last_year}\x1b[0m
-    # \x1b[96mTotal PRs: \x1b[93m{git_user_details.total_pull_requests_made}\x1b[0m
-    # \x1b[96mMerged PR %: \x1b[93m{git_user_details.pull_requests_merge_percentage}\x1b[0m
+    \x1b[96mTotal PRs: \x1b[93m{git_user_details.total_pull_requests_made}\x1b[0m
+    \x1b[96mMerged PR %: \x1b[93m{git_user_details.pull_requests_merge_percentage}\x1b[0m
     \x1b[96mTotal Contributions: \x1b[93m{git_user_details.total_repo_contributions}\x1b[0m
     \x1b[96mTop Languages: \x1b[93m{', '.join(top_languages[:10])}\x1b[0m
     """
