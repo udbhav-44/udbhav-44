@@ -1,12 +1,12 @@
 <div align="justify">
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/FLmRHYw3/output-gif.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/FLmRHYw3/output-gif.gif">
-    <img alt="GIFOS" src="https://i.ibb.co/FLmRHYw3/output-gif.gif">
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/vv4ZXr5L/output-gif.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/vv4ZXr5L/output-gif.gif">
+    <img alt="GIFOS" src="https://i.ibb.co/vv4ZXr5L/output-gif.gif">
 </picture>
 
 <sub><i>inspired from [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal)</i></sub>
 
 </div>
 
-<!-- Image deletion URL: https://ibb.co/8LN1Yx5s/03053719529befb78fe797f55538ed04 -->
+<!-- Image deletion URL: https://ibb.co/n8MzPV2Q/28c0733edaa7cac3ea3a2ac1c177e92f -->
